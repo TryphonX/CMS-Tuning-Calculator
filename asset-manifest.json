@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CMS-Tuning-Calculator/static/css/main.5b62dad3.css",
+    "main.js": "/CMS-Tuning-Calculator/static/js/main.c2c50b64.js",
+    "static/js/787.153447d1.chunk.js": "/CMS-Tuning-Calculator/static/js/787.153447d1.chunk.js",
+    "index.html": "/CMS-Tuning-Calculator/index.html",
+    "static/media/types.jsdoc": "/CMS-Tuning-Calculator/static/media/types.5a2129239ec46bcdf63c.jsdoc",
+    "main.5b62dad3.css.map": "/CMS-Tuning-Calculator/static/css/main.5b62dad3.css.map",
+    "main.c2c50b64.js.map": "/CMS-Tuning-Calculator/static/js/main.c2c50b64.js.map",
+    "787.153447d1.chunk.js.map": "/CMS-Tuning-Calculator/static/js/787.153447d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b62dad3.css",
+    "static/js/main.c2c50b64.js"
+  ]
+}
